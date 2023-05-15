@@ -1,0 +1,84 @@
+We have identified 10 trends that will shape the future of 
+critical networks and influence the distribution of value and the 
+future competitive landscape within the industry ecosystems.Industry trends
+Shaping the future of critical networks 
+1 Open architectures and Open RAN
+We see increased activities towards open network architectures,  
+most notably Open RAN (radio access network) with the O-RAN 
+alliance. Open RAN aims at splitting a base transceiver station (BTS) 
+into its subcomponents with open interfaces and introduces a new 
+network function, RAN Intelligent Controller. The subcomponents can 
+then be provided by different suppliers. CSPs currently experiment 
+with the objective to build and nurture the open ecosystem and 
+diversify their supplier base.
+2 Cloud RAN
+Cloud RAN refers to all or some of the baseband functions being run 
+on a commercial-off-the-shelf (COTS) computing platform rather  
+than purpose-built hardware. The objective is to benefit from cloud 
+computing efficiencies and the pooling of resources. Its adoption  
+will be dependent on the cost-efficiency of COTS platforms,  
+fiber build-out and the availability of hosting data centers.
+3 Private wireless networks
+Large industrials are enhancing their operational technology networks 
+with the target of connecting their infrastructure and devices, often  
+in a wireless manner. This enables the collection and aggregation of 
+operational data, which in turn is used to improve overall productivity. 
+We currently see players in enterprise verticals building their own 
+private 4G/5G networks complementing their wi-fi and fixed networks 
+and expect this trend to continue.4 Edge cloud
+To advance digitalization and automation, there is demand for  
+specific workloads to move from the central cloud to be closer to the 
+application due to the required low latency. The on-premise enterprise 
+edge is best suited to serve privacy-oriented, mission-critical use 
+cases. The remaining low latency use cases can be served at the  
+Wide Area Network (WAN) termination site.
+5 Hybrid cloud
+Hybrid cloud is emerging as a strong enabler for accelerating digital 
+transformation. Enterprises adopting hybrid cloud models benefit 
+from public cloud (multi-cloud) services, augmented by traditional  
+IT systems and privacy-oriented private clouds. In this context, 
+enterprises or CSPs as their WAN providers have brought the  
+large cloud providers (Amazon Web Services, Microsoft Azure,  
+Google Cloud Platform) in their WAN.
+6 As-a-Service delivery and business models
+With as-a-Service (aaS) business models predominant for software 
+applications in enterprise, CSPs have started migrating their IT apps  
+to public clouds and consuming them aaS. This development is also 
+increasing in network software. For network functions like 5G Core, 
+CSPs will likely use a phased approach with software migrating to  
+a cloud deployment model (hybrid) first, before transitioning to  
+an aaS business model. We expect that in the mid- to long-term,  
+most network software and network functions will be consumed  
+in an aaS model.
+7 Coherent routing
+Pluggable coherent 400G optics, optimized line systems and network 
+automation will enable the next generation of IP/Optical network 
+evolution primarily for point-to-point router connections (DCI). 
+Aggregation and backbone networks will leverage reconfigurable 
+optical add-drop multiplexer (ROADM)-optimized IP topologies to 
+optimize for performance and cost.
+8 Infrastructure sharing
+CSPs are seeking to optimize their cost and asset structure, which 
+leads to network sharing initiatives and spin-offs. The emergence 
+of neutral hosts is supported by government broadband initiatives 
+and capital from infrastructure funds. The neutral host model will 
+take different forms depending on the market context. We expect 
+predominantly passive infrastructure sharing with some expansion 
+into active fiber and metro edge compute across the mid-term 
+time frame.9 Non-terrestrial networks
+Non-terrestrial networks are under disruption from technology-driven 
+performance and cost improvements and the emergence of the Low 
+Earth Orbit (LEO) deployment model. We expect the non-terrestrial 
+networks to be mainly complementary to terrestrial networks in terms 
+of coverage in low population density areas.
+10 System-on-a-Chip (SoC)
+SoCs provide a source of competitive differentiation on performance, 
+cost and power. Industry and use case specific workloads leverage 
+custom SoCs that provide the required performance at optimal total 
+cost of ownership. Software applications will be redesigned to take 
+advantage of hybrid SoC-based and commoditized x86-based 
+platforms. We expect the build-out of the edge and the migration  
+of workloads to hybrid cloud architecture to influence the timing  
+of bespoke SoC utilization. The industry perspective changes  
+from x86 for all workloads towards use case driven bespoke processor 
+and accelerators.

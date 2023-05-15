@@ -1,0 +1,102 @@
+List of Acronyms
+Acronym Expansion
+2G second generation wireless telephone technology
+3DES triple DES (data encryption standard)
+3G third generation mobile telephone technology
+5620 SAM 5620 Service Aware Manager
+7705 SAR 7705 Service Aggregation Router
+7710 SR 7710 Service Router
+7750 SR 7750 Service Router
+9500 MPR 9500 microwave packet radio
+ABR area border router
+available bit rate
+AC alternating current
+attachment circuit
+ACK acknowledge
+ACL access control list
+ACR adaptive clock recovery
+ADM add/drop multiplexer
+ADP automatic discovery protocol
+AFI authority and format identifier
+AIS alarm indication signal
+ANSI American National Standards Institute
+Apipe ATM VLL
+List of Acronyms
+420 7705 SAR OS Quality of Service Guide
+APS automatic protection switching
+ARP address resolution protocol
+A/S active/standby
+AS autonomous system
+ASAP any service, any port
+ASBR autonomous system boundary router
+ASM any-source multicast
+autonomous system message
+ASN autonomous system number
+ATM asynchronous transfer mode
+ATM PVC ATM permanent virtual circuit
+B3ZS bipolar with three-zero substitution
+Batt A battery A
+B-bit beginning bit (first packet of a fragment)
+Bc committed burst size
+Be excess burst size
+BECN backward explicit congestion notification 
+Bellcore Bell Communications Research
+BFD bidirectional forwarding detection
+BGP border gateway protocol
+BITS building integrated timing supply
+BMCA best master clock algorithm
+Table 64: Acronyms  (Continued)
+Acronym Expansion
+List of Acronyms
+7705 SAR OS Quality of Service Guide 421
+BMU broadcast, multicast, and unknown traffic
+Traffic that is not unicast. Any nature of multipoint traffic:
+• broadcast (that is, all 1s as the destination IP to 
+represent all destinations within the subnet)
+• multicast (that is, traffic typically identified by the 
+destination address, uses special destination 
+address); for IP, the destination must be 224.0.0.0 to 
+239.255.255.255
+• unknown (that is, the destination is typically a valid 
+unicast address but the destination port/interface is 
+not yet known; therefore, traffic needs to be 
+forwarded to all destinations; unknown traffic is 
+treated as broadcast)
+BOF boot options file
+BPDU bridge protocol data unit
+BRAS Broadband Remote Access Server
+BSC Base Station Controller
+BSR bootstrap router
+BSTA Broadband Service Termination Architecture
+BTS base transceiver station
+CAS channel associated signaling
+CBN common bonding networks
+CBS committed buffer space
+CC continuity check
+control channel
+CCM continuity check message
+CE circuit emulation
+customer edge
+CEM circuit emulation
+CES circuit emulation services
+Table 64: Acronyms  (Continued)
+Acronym Expansion
+List of Acronyms
+422 7705 SAR OS Quality of Service Guide
+CESoPSN circuit emulation services over packet switched network
+CFM connectivity fault management
+cHDLC Cisco high-level data link control protocol 
+CIDR classless inter-domain routing
+CIR committed information rate
+CLI command line interface
+CLP cell loss priority
+CoS class of service
+CPE customer premises equipment
+Cpipe circuit emulation (or TDM) VLL
+CPM Control and Processing Module (CPM is used instead of 
+CSM when referring to CSM filtering to align with CLI 
+syntax used with other SR products). CSM management ports 
+are referred to as CPM management ports in the CLI.
+CPU central processing unit
+C/R command/response
+CRC cyclic redundancy check

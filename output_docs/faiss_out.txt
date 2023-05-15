@@ -1,0 +1,13 @@
+CIR committed information rate
+CLI command line interface
+CLP cell loss priority
+CoS class of service
+CPE customer premises equipment
+Cpipe circuit emulation (or TDM) VLL
+CPM Control and Processing Module (CPM is used instead of 
+CSM when referring to CSM filtering to align with CLI 
+syntax used with other SR products). CSM management ports 
+are referred to as CPM management ports in the CLI.
+CPU central processing unit
+C/R command/response
+CRC cyclic redundancy check

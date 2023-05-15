@@ -1,0 +1,307 @@
+
+24
+List of Acronyms
+7705 SAR OS Quality of Service Guide 433
+OSPF-TE OSPF-traffic engineering (extensions)
+OSS operations support system
+OSSP organization specific slow protocol
+OTP one time password
+OWAMP one-way active measurement protocol
+PADI PPPoE active discovery initiation
+PADR PPPoE active discovery request
+PAE port authentication entities
+PBR policy-based routing
+PBX private branch exchange
+PCP priority code point 
+PCR proprietary clock recovery 
+PDU protocol data units
+PDV packet delay variation
+PDVT packet delay variation tolerance
+PE provider edge router
+PEAPv0 protected extensible authentication protocol version 0
+PFoE power feed over Ethernet
+PFS perfect forward secrecy
+PHB per-hop behavior
+PHY physical layer
+PID protocol ID
+PIM SSM protocol independent multicast—source-specific multicast
+PIR peak information rate
+PLAR private line automatic ringdown
+PLCP Physical Layer Convergence Protocol
+Table 64: Acronyms  (Continued)
+Acronym Expansion
+List of Acronyms
+434 7705 SAR OS Quality of Service Guide
+PLR point of local repair
+PoE power over Ethernet
+PoE+ power over Ethernet plus
+POP point of presence
+POS packet over SONET
+PPP point-to-point protocol
+PPPoE point-to-point protocol over Ethernet
+PPS pulses per second
+PRC primary reference clock
+PSE power sourcing equipment
+PSK pre-shared key
+PSN packet switched network
+PSNP partial sequence number PDU
+PTM packet transfer mode
+PTP performance transparency protocol
+precision time protocol
+PVC permanent virtual circuit
+PVCC permanent virtual channel connection
+PW pseudowire
+PWE pseudowire emulation
+PWE3 pseudowire emulation edge-to-edge
+Q.922 ITU-T Q-series Specification 922
+QL quality level
+QoS quality of service
+RADIUS Remote Authentication Dial In User Service
+RAN Radio Access Network
+Table 64: Acronyms  (Continued)
+Acronym Expansion
+List of Acronyms
+7705 SAR OS Quality of Service Guide 435
+RBS robbed bit signaling
+RD route distinguisher
+RDI remote defect indication
+RED random early discard
+RESV reservation
+RIB routing information base
+RIP routing information protocol
+RJ-45 registered jack 45
+RNC Radio Network Controller
+RP rendezvous point
+RPF RTM reverse path forwarding RTM
+RPS radio protection switching
+RRO record route object
+RS-232 Recommended Standard 232 (also known as EIA/TIA-232)
+RSA Rivest, Shamir, and Adleman (authors of the RSA encryption 
+algorithm) 
+RSHG residential split horizon group
+RSTP rapid spanning tree protocol
+RSVP-TE resource reservation protocol - traffic engineering
+RT receive/transmit
+RTM routing table manager
+RTN battery return
+RTP real-time protocol
+R&TTE Radio and Telecommunications Terminal Equipment
+RTU remote terminal unit
+RU rack unit
+Table 64: Acronyms  (Continued)
+Acronym Expansion
+List of Acronyms
+436 7705 SAR OS Quality of Service Guide
+r-VPLS routed virtual private LAN service
+SA security association
+SAA service assurance agent
+SAFI subsequent address family identifier
+SAP service access point
+SAR-8 7705 Service Aggregation Router – 8-slot chassis
+SAR-18 7705 Service Aggregation Router – 18-slot chassis
+SAR-A 7705 Service Aggregation Router – two variants:
+• passively cooled chassis with 
+12 Ethernet ports and 8 T1/E1 ports
+• passively cooled chassis with 
+12 Ethernet ports and no T1/E1 ports
+SAR-F 7705 Service Aggregation Router – fixed form-factor chassis
+SAR-H 7705 Service Aggregation Router – temperature- and 
+EMC-hardened to the following specifications: IEEE 1613 
+and IEC 61850-3
+SAR-Hc 7705 Service Aggregation Router – compact version of 
+7705 SAR-H
+SAR-M 7705 Service Aggregation Router – four variants:
+• actively cooled chassis with 16 T1/E1 ports, 7 
+Ethernet ports, and 1 hot-insertable module slot
+• actively cooled chassis with 0 T1/E1 ports, 7 
+Ethernet ports, and 1 hot-insertable module slot
+• passively cooled chassis with 16 T1/E1 ports, 7 
+Ethernet ports, and 0 module slots
+• passively cooled chassis with 0 T1/E1 ports, 7 
+Ethernet ports, and 0 module slots
+Table 64: Acronyms  (Continued)
+Acronym Expansion
+List of Acronyms
+7705 SAR OS Quality of Service Guide 437
+SAR-O 7705 Service Aggregation Router passive CWDM device – 
+three variants; each with different models:
+• The 2-wavelength CWDM dual-fiber variant is a 
+bidirectional variant that is used to drop and add two 
+specific wavelengths from the network; it has four 
+models.
+One model is used to add and drop the following 
+wavelengths: 1471 and 1491 nm
+One model is used to add and drop the following 
+wavelengths: 1511 and 1531 nm
+One model is used to add and drop the following 
+wavelengths: 1551 and 1571 nm
+One model is used to add and drop the following 
+wavelengths: 1591 and 1611 nm
+• The 4-wavelength CWDM dual-fiber variant is used 
+to drop and add four specific wavelengths from the 
+network; it has two models.
+One model is used to add and drop the following 
+wavelengths: 1471/1491/1511/1531 nm
+One model is used to add and drop the following 
+wavelengths: 1551/1571/1591/1611 nm
+• The 8-wavelength CWDM single-fiber variant is 
+used to drop and add eight specific wavelengths from 
+the network; it has two models.
+One model is used to add and drop the following 
+wavelengths: 1471/1511/1551/1591 nm on Tx and 
+1491/1531/1571/1611 nm on Rx 
+One model is used to add and drop the following 
+wavelengths: 1491/1531/1571/1611 nm on Tx and 
+1471/1511/1551/1591 nm on Rx
+SAR-W 7705 Service Aggregation Router – passively cooled, 
+universal AC and DC powered unit, equipped with five 
+Gigabit Ethernet ports (three SFP ports and two RJ-45 Power 
+over Ethernet (PoE) ports)
+Table 64: Acronyms  (Continued)
+Acronym Expansion
+List of Acronyms
+438 7705 SAR OS Quality of Service Guide
+SAR-Wx 7705 Service Aggregation Router – passively cooled, 
+universal AC powered unit; there are six variants:
+• a unit that is equipped with an AC power input 
+connector, five Gigabit Ethernet data ports (three 
+SFP ports and two RJ-45 Ethernet ports), and an 
+RJ-45 alarm input connector
+• a unit that is equipped with an AC power input 
+connector, five Gigabit Ethernet data ports (three 
+SFP ports and two RJ-45 Ethernet ports), a GPS 
+receiver, and an RJ-45 alarm input connector
+• a unit that is equipped with an AC power input 
+connector, five Gigabit Ethernet data ports (three 
+SFP ports, one RJ-45 Ethernet port, and one RJ-45 
+PoE+ port), and an RJ-45 alarm input connector
+• a unit that is equipped with an AC power input 
+connector, five Gigabit Ethernet data ports (three 
+SFP ports, one RJ-45 Ethernet port, and one RJ-45 
+PoE+ port), a GPS receiver, and an RJ-45 alarm input 
+connector
+• a unit that is equipped with an AC power input 
+connector, four Gigabit Ethernet data ports (three 
+SFP ports and one RJ-45 port), one RJ-45 4-pair 
+xDSL port, and an RJ-45 alarm input connector
+• a unit that is equipped with an AC power input 
+connector, four Gigabit Ethernet data ports (three 
+SFP ports and one RJ-45 port), one RJ-45 4-pair 
+xDSL port, a GPS receiver, and an RJ-45 alarm input 
+connector
+SAToP structure-agnostic TDM over packet
+SCADA surveillance, control and data acquisition
+SC-APS single-chassis automatic protection switching
+SCP secure copy
+SD signal degrade
+space diversity
+SDH synchronous digital hierarchy 
+Table 64: Acronyms  (Continued)
+Acronym Expansion
+List of Acronyms
+7705 SAR OS Quality of Service Guide 439
+SDI serial data interface
+SDP service destination point
+SE shared explicit
+SeGW secure gateway
+SF signal fail
+SFP small form-factor pluggable (transceiver)
+SGT self-generated traffic
+SHA-1 secure hash algorithm 
+SHG split horizon group
+SIR sustained information rate
+SLA Service Level Agreement
+SLARP serial line address resolution protocol
+SLID subscriber location identifier of a GPON module
+SLM synthetic loss measurement
+SNMP Simple Network Management Protocol
+SNPA subnetwork point of attachment
+SNR signal to noise ratio
+SNTP simple network time protocol
+SONET synchronous optical networking 
+S-PE switching provider edge router
+SPF shortest path first
+SPI security parameter index 
+SPT shortest path tree
+SR service router (includes 7710 SR, 7750 SR)
+SRLG shared risk link group
+SSH secure shell
+Table 64: Acronyms  (Continued)
+Acronym Expansion
+List of Acronyms
+440 7705 SAR OS Quality of Service Guide
+SSM source-specific multicast
+synchronization status messaging
+SSU system synchronization unit
+S-TAG service VLAN tag
+STM1 synchronous transport module, level 1
+STP spanning tree protocol
+SVC switched virtual circuit
+SYN synchronize
+TACACS+ Terminal Access Controller Access-Control System Plus
+TC traffic class (formerly known as EXP bits)
+TCP transmission control protocol
+TDEV time deviation
+TDM time division multiplexing
+TE traffic engineering
+TEID tunnel endpoint identifier
+TFTP trivial file transfer protocol
+T-LDP targeted LDP
+TLS transport layer security
+TLV type length value
+TM traffic management
+ToD time of day
+ToS type of service
+T-PE terminating provider edge router
+TPID tag protocol identifier
+TPIF IEEE C37.94 teleprotection interface
+TPMR two-port MAC relay
+Table 64: Acronyms  (Continued)
+Acronym Expansion
+List of Acronyms
+7705 SAR OS Quality of Service Guide 441
+TPS transmission protection switching
+TTL time to live
+TTLS tunneled transport layer security
+TTM tunnel table manager
+TWAMP two-way active measurement protocol
+U-APS unidirectional automatic protection switching
+UBR unspecified bit rate
+UDP user datagram protocol
+UMTS Universal Mobile Telecommunications System (3G)
+UNI user-to-network interface
+uRPF unicast reverse path forwarding
+V.11 ITU-T V-series Recommendation 11
+V.24 ITU-T V-series Recommendation 24
+V.35 ITU-T V-series Recommendation 35
+VC virtual circuit
+VCC virtual channel connection
+VCCV virtual circuit connectivity verification
+VCI virtual circuit identifier
+VID VLAN ID
+VLAN virtual LAN
+VLL virtual leased line
+VoIP voice over IP
+Vp peak voltage
+VP virtual path
+VPC virtual path connection
+VPI virtual path identifier
+Table 64: Acronyms  (Continued)
+Acronym Expansion
+List of Acronyms
+442 7705 SAR OS Quality of Service Guide
+VPLS virtual private LAN service
+VPN virtual private network
+VPRN virtual private routed network
+VRF virtual routing and forwarding table
+VRRP virtual router redundancy protocol
+VSE vendor-specific extension
+VSO vendor-specific option
+VT virtual trunk
+WCDMA wideband code division multiple access (transmission 
+protocol used in UMTS networks)
+WRED weighted random early discard
+WTR wait to restore
+X.21 ITU-T X-series Recommendation 21
+Table 64: Acronyms  (Continued)
+Acronym Expansion
