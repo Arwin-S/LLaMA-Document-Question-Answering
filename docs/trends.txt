@@ -2,6 +2,7 @@ We have identified 10 trends that will shape the future of
 critical networks and influence the distribution of value and the 
 future competitive landscape within the industry ecosystems.Industry trends
 Shaping the future of critical networks 
+
 1 Open architectures and Open RAN
 We see increased activities towards open network architectures,  
 most notably Open RAN (radio access network) with the O-RAN 
