@@ -17,10 +17,10 @@ print(docs[0].page_content)
 
     
 
-# callback_manager = CallbackManager([StreamingStdOutCallbackHandler()])
+callback_manager = CallbackManager([StreamingStdOutCallbackHandler()])
 
-# chain = load_qa_chain(llm = LlamaCpp(model_path="./models/ggml-vic13b-q5_1.bin",
-#                                     callback_manager=callback_manager, verbose=True, n_ctx=2048),
-#                                  chain_type="stuff")
+chain = load_qa_chain(llm = LlamaCpp(model_path="./models/ggml-vic13b-q5_1.bin",
+                                    callback_manager=callback_manager, verbose=True, n_ctx=2048),
+                                 chain_type="stuff")
 
-# chain.run(input_documents=docs, question=query)
+chain.run(input_documents=docs, question=query)
